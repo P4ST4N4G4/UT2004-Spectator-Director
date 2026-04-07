@@ -6,8 +6,11 @@ The camera intelligently tracks players, lingers on the killer after a frag, and
 Features
 
 Smooth camera movement – interpolation for both location and rotation.
+
 Frag linger – after a frag, the camera stays on the perpetrator for a configurable duration.
+
 Auto target switching – cycles through alive players based on their score (or random if scores are equal).
+
 Works with both human players and bots.
 
 Installation
