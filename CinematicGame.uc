@@ -1,4 +1,4 @@
-// CinematicGame - Deathmatch based gametype that uses our spectator controller
+// CinematicGame - Deathmatch based gametype that uses spectator controller
 // and custom game rules.
 class CinematicGame extends xDeathMatch;
 
